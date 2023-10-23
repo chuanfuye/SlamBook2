@@ -1,0 +1,6 @@
+/home/xiaoye/Projects/slambook2/ch2/build/CMakeFiles/rebuild_cache.dir
+/home/xiaoye/Projects/slambook2/ch2/build/CMakeFiles/edit_cache.dir
+/home/xiaoye/Projects/slambook2/ch2/build/CMakeFiles/useHello.dir
+/home/xiaoye/Projects/slambook2/ch2/build/CMakeFiles/hello_shared.dir
+/home/xiaoye/Projects/slambook2/ch2/build/CMakeFiles/helloSLAM.dir
+/home/xiaoye/Projects/slambook2/ch2/build/CMakeFiles/hello.dir

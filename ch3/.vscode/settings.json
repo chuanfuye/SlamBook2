@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "geometry": "cpp",
+        "core": "cpp",
+        "ostream": "cpp"
+    }
+}
